@@ -1,0 +1,7 @@
+04-07-2026
+Today I learned:
+what is Linux
+basic Linux commands
+pwd
+ls
+cd
